@@ -11,5 +11,5 @@ I made this project as order to practice coding.
 In this project I use HTML, CSS and Javascript.
 
 
-Here is the link to this project: https://ngocthang2021.github.io/digital-clock/
-Here is the link to the source code: https://github.com/ngocthang2021/digital-clock
+Here is the link to this project: https://ngocthang2021.github.io/digital-clock/.
+Here is the link to the source code: https://github.com/ngocthang2021/digital-clock.
